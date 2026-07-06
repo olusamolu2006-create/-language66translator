@@ -1,0 +1,11 @@
+{
+  "name": "language66-translator-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python bot.py",
+    "postinstall": "pip install -r requirements.txt"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
